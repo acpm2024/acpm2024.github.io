@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "acpm",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -67,8 +67,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "ACPM",
+        "meta_descr": "Association of Construction Project Managers Malaysia",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -958,9 +958,9 @@
         }
       ]
     },
-    "page1.html": {
+    "about.html": {
       "settings": {
-        "title": "About",
+        "title": "About Us",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
